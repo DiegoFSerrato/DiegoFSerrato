@@ -63,5 +63,5 @@ Estas son algunas de las tecnologías y herramientas con las que trabajo:
 ¡Conectemos! Puedes encontrarme en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rafael-flores-serrato-b08016360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[raflores0477@gmail.com])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raflores0477@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoFSerrato)
