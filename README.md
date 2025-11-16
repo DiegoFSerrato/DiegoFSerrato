@@ -52,10 +52,10 @@ Estas son algunas de las tecnologías y herramientas con las que trabajo:
 * **[Wedding E & R] (Proyecto Freelance)**
     * Descripción: Página web estática utilizada como invitación de boda. Incluía información del evento, ubicaciones (celebración y recepción), código de vestimenta y una lista de invitados organizada por mesa.
     * Tecnologías usadas: `JavaScript`, `React`, `PostgreSQL`
-    * * ## 🎓 Cursos y certificaciones
+    * ## 🎓 Cursos y certificaciones
 
 * **Certificado en "PYTHON ANALYST"** - Instituto Nacional de Capacitación y Formación (INCAF) & Kodigo (Octubre 2025)
-    * [cite_start]*Bootcamp de 160 horas [cite: 7] [cite_start]completado exitosamente[cite: 6], enfocado en el análisis de datos con Python.*
+   
 * **(Próximamente) Certificación Python 1** - Python Institute
 
 ## 📩 Sección de contacto
